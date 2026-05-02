@@ -1,0 +1,8 @@
+name = "rev-full-auto-complete"
+main = "worker.js"
+compatibility_date = "2026-05-01"
+
+# AI相談・提案を使う場合のみCloudflare側でAI Bindingを追加
+# Binding name: AI
+# [ai]
+# binding = "AI"
